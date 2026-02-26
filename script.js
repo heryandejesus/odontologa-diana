@@ -75,3 +75,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
     console.log("Web de Od. Diana Blanco: JS Corregido y activo.");
 });
+
+document.getElementById("year").innerText = new Date().getFullYear();
