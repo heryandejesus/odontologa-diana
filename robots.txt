@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.od-dianablanco.com.ar/sitemap.xml
